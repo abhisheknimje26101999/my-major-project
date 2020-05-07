@@ -1859,7 +1859,7 @@ ul.icons {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/banner.jpg");
+  background-image: url("../../images/background2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2058,7 +2058,7 @@ ul.icons {
     width: 100%;
     z-index: 1; }
   #banner:after {
-    background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
+    background: linear-gradient(135deg, #ffffff00 0%, #ffffff00 74%);
     content: ' ';
     display: block;
     height: 100%;
@@ -2440,7 +2440,7 @@ body {
   padding-top: 3.25rem; }
   body:before {
     content: ' ';
-    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(../../images/background2.jpg);
+    background-image: url(../../images/background2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
