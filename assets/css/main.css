@@ -134,7 +134,10 @@ header.special {
   header.special p {
     max-width: 75%;
     margin-left: auto;
-    margin-right: auto; }
+    margin-right: auto;
+    font-size: 120%;
+
+  }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
@@ -1846,7 +1849,7 @@ ul.icons {
   -ms-flex-align: center;
   -ms-flex-pack: center;
   background-color: #111111;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.65);
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
